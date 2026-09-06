@@ -15,6 +15,10 @@ status-website:
   cname: status.sunwei.online
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sunwei Status
+  css: |
+    nav {
+      display: none !important;
+    }
   introTitle: "网站运行状态"
   introMessage: "这里显示网站在线状态、响应时间和历史可用率。"
   navbar:
