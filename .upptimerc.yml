@@ -8,6 +8,8 @@ sites:
     url: https://qexo.sunwei.online
   - name: Website
     url: https://www.sunwei.online
+  - name: Status
+    url: https://status.sunwei.online
 
 status-website:
   cname: status.sunwei.online
